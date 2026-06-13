@@ -1,0 +1,220 @@
+{
+  "name": "Mememelmelmel VPM",
+  "id": "mememelmelmel.vpm",
+  "url": "https://mememelmelmel.github.io/vpm/index.json",
+  "author": "mememelmelmel",
+  "packages": {
+    "mememelmelmel.hair-profiles": {
+      "versions": {
+        "1.3.1": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.3.1",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.3.1/mememelmelmel.hair-profiles-1.3.1.zip",
+          "zipSHA256": "e135f0c8921501742a1b197d97c2239d8213f9af71e9999eec155cd110d11242",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.3.0": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.3.0",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.3.0/mememelmelmel.hair-profiles-1.3.0.zip",
+          "zipSHA256": "d264b1613057369911d15409f6682e7ef2a9ee66dbe36e5fcc8f518aacaa4d02",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.2.2": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.2.2",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.2.2/mememelmelmel.hair-profiles-1.2.2.zip",
+          "zipSHA256": "7d03938dd47fc4b279f3804346c59c71491fa80d399cccde6a17ba19ada61c06",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.2.1": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.2.1",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.2.1/mememelmelmel.hair-profiles-1.2.1.zip",
+          "zipSHA256": "aac5d99f375c4f23f5b3da07969f0e7dace2af7769002cd8d1f56c349c76f72e",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.2.0": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.2.0",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.2.0/mememelmelmel.hair-profiles-1.2.0.zip",
+          "zipSHA256": "39aaf4a3e697aca4bc2b46725ffccaacd60792898cf4c83aa58b148b51755393",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.1.0": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.1.0",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.1.0/mememelmelmel.hair-profiles-1.1.0.zip",
+          "zipSHA256": "c4e6c541447994073c62b01eb3bdc50e6e8975fc3c55fbffc5c08928068f03f1",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.0.0": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.0.0",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.0.0/mememelmelmel.hair-profiles-1.0.0.zip",
+          "zipSHA256": "d9cc6c0f41f30b20528ab0566296acdb1ec2842981d0e3edb3146839274e9ab7",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        }
+      }
+    },
+    "mememelmelmel.profile-applier": {
+      "versions": {
+        "1.2.1": {
+          "name": "mememelmelmel.profile-applier",
+          "version": "1.2.1",
+          "displayName": "Mel Profile Applier",
+          "description": "Apply and export prefab override profiles as JSON.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/profile-applier/releases/download/1.2.1/mememelmelmel.profile-applier-1.2.1.zip",
+          "zipSHA256": "c00fb79a46cc57c4497cf7eab02677ae71fe3c13ce6d16fcc77a7201bc369c14",
+          "repo": "https://mememelmelmel.github.io/profile-applier/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.2.0": {
+          "name": "mememelmelmel.profile-applier",
+          "version": "1.2.0",
+          "displayName": "Mel Profile Applier",
+          "description": "Apply and export prefab override profiles as JSON.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/profile-applier/releases/download/1.2.0/mememelmelmel.profile-applier-1.2.0.zip",
+          "zipSHA256": "e8414c38e98bb8efcc398d37bccd7e48c510e965fb839fb012e0229490fb91c5",
+          "repo": "https://mememelmelmel.github.io/profile-applier/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.1.0": {
+          "name": "mememelmelmel.profile-applier",
+          "version": "1.1.0",
+          "displayName": "Mel Profile Applier",
+          "description": "Apply and export prefab override profiles as JSON.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/profile-applier/releases/download/1.1.0/mememelmelmel.profile-applier-1.1.0.zip",
+          "zipSHA256": "0aa5de5d788c2ffff50f9e6d5c5df4f7a11b99e078edbdd72baa270d59153572",
+          "repo": "https://mememelmelmel.github.io/profile-applier/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.0.1": {
+          "name": "mememelmelmel.profile-applier",
+          "version": "1.0.1",
+          "displayName": "Mel Profile Applier",
+          "description": "Apply and export prefab override profiles as JSON.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/profile-applier/releases/download/1.0.1/mememelmelmel.profile-applier-1.0.1.zip",
+          "zipSHA256": "81116554a99b320a6ce7fd29e2cd6098d732ec69864e74b0fed2811645b20214",
+          "repo": "https://mememelmelmel.github.io/profile-applier/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        },
+        "1.0.0": {
+          "name": "mememelmelmel.profile-applier",
+          "version": "1.0.0",
+          "displayName": "Mel Profile Applier",
+          "description": "Apply and export prefab override profiles as JSON.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/profile-applier/releases/download/1.0.0/mememelmelmel.profile-applier-1.0.0.zip",
+          "zipSHA256": "fee5aeb275479c3a8c41919273656c5bb3ef2f790090079f110784b309a7ddc3",
+          "repo": "https://mememelmelmel.github.io/profile-applier/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+name: Build VPM Listing
+
+# Regenerates index.json by merging the source listings, then commits it.
+# GitHub Pages serves index.json from the repo root (Settings → Pages →
+# Deploy from branch → main / root).
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily, to pick up new releases of the source packages.
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-listing
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build listing
+        run: node scripts/build-listing.mjs
+
+      - name: Commit updated listing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          if git diff --quiet --cached; then
+            echo "No changes to index.json."
+          else
+            git commit -m "chore: rebuild VPM listing"
+            git push
+          fi

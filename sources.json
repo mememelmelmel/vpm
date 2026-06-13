@@ -1,0 +1,10 @@
+{
+  "name": "Mememelmelmel VPM",
+  "id": "mememelmelmel.vpm",
+  "url": "https://mememelmelmel.github.io/vpm/index.json",
+  "author": "mememelmelmel",
+  "sources": [
+    "https://mememelmelmel.github.io/hair-profiles/index.json",
+    "https://mememelmelmel.github.io/profile-applier/index.json"
+  ]
+}
