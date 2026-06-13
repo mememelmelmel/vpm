@@ -6,6 +6,25 @@
   "packages": {
     "mememelmelmel.hair-profiles": {
       "versions": {
+        "1.4.0": {
+          "name": "mememelmelmel.hair-profiles",
+          "version": "1.4.0",
+          "displayName": "Mel Hair Profiles",
+          "description": "Override profile JSON files for Mel hair assets.",
+          "unity": "2022.3",
+          "author": {
+            "name": "mememelmelmel",
+            "url": "https://github.com/mememelmelmel"
+          },
+          "url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.4.0/mememelmelmel.hair-profiles-1.4.0.zip",
+          "zipSHA256": "25bf7335d0be9bfc91bf6d4b246f04319c312760868024701527cbc4910cd585",
+          "repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {
+            "mememelmelmel.profile-applier": ">=1.2.1 <2.0.0"
+          }
+        },
         "1.3.1": {
           "name": "mememelmelmel.hair-profiles",
           "version": "1.3.1",
